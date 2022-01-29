@@ -22,3 +22,9 @@ This GeoJSON map has been designed to feature map layers that can switch map vie
 
 ## Major Earthquakes displaying Streets view:
 ![127 0 0 1_5500_Earhtquake_Challenge_index html (4)](https://user-images.githubusercontent.com/91576834/151643008-35170516-3746-4cfe-9810-bbfb1e3dfa8e.png)
+
+
+## Resources
+- JavaScript, HTML, VS Code 1.63.2
+- [MapBox](https://www.mapbox.com/blog/adaptive-projections?utm_campaign=email%7Cblast%7Cgljs%7Creimagining-projections-for-the-interactive-maps-era&utm_content=GL+JS+v2.6+with+Adaptive+Projections&utm_medium=email_action&utm_source=customer.io) 
+- [Leaflet.js](https://leafletjs.com/) 
